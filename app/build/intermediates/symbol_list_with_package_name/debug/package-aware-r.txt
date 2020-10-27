@@ -790,6 +790,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable fadil
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -809,10 +810,20 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable yudha
 id ALT
+id CF_etEmail
+id CF_etInstagram
+id CF_etLinkedIn
+id CF_etUniversity
+id CF_tvEmail
+id CF_tvInstagram
+id CF_tvLinkdedIn
+id CF_tvName
+id CF_tvUniversity
 id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id ProfilePic_Fadil
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -998,7 +1009,9 @@ id percent
 id position
 id postLayout
 id profile_button
+id profile_buttonfas
 id profile_buttonyp
+id profile_buttonyp2
 id progress_circular
 id progress_horizontal
 id radio
@@ -1131,6 +1144,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_fadil
 layout activity_main
 layout activity_reza
 layout activity_yudha
@@ -1184,6 +1198,7 @@ string ig_button
 string profile_button
 string profile_buttonyp
 string profile_desc
+string profile_fadil
 string profile_yp
 string search_menu_title
 string status_bar_notification_info_overflow

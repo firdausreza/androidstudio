@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, activity_yudha.class);
         startActivity(intent);
     }
+    public void ProfileFadil(View view) {
+        Intent intent = new Intent(this, activity_fadil.class);
+        startActivity(intent);
+    }
 }

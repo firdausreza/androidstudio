@@ -6,6 +6,18 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/profile_buttonyp2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="ProfileYudha"
+        android:text="@string/profile_buttonyp"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/heading_main" />
+
     <TextView
         android:id="@+id/heading_main"
         android:layout_width="wrap_content"
@@ -204,5 +216,18 @@
         app:layout_constraintHorizontal_bias="0.049"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/heading_main" />
+
+    <Button
+        android:id="@+id/profile_buttonfas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="ProfileFadil"
+        android:text="Fadila Ahmad S"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.047"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile_buttonyp2"
+        app:layout_constraintVertical_bias="0.445" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
