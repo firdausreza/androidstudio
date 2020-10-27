@@ -782,6 +782,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable bangjago
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -893,6 +894,8 @@ id async
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id b_fadhlan
+id b_fadhlanig
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -952,6 +955,8 @@ id easeInOut
 id easeOut
 id edit_query
 id end
+id et_fadhlanemail
+id et_fadhlanuniv
 id expand_activities_button
 id expanded_menu
 id fb_button
@@ -963,6 +968,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id heading_fadhlan
 id heading_main
 id home
 id homeAsUp
@@ -978,6 +984,7 @@ id imageView
 id info
 id invisible
 id italic
+id iv_fadhlan
 id jumpToEnd
 id jumpToStart
 id layout
@@ -1010,7 +1017,6 @@ id position
 id postLayout
 id profile_button
 id profile_buttonfas
-id profile_buttonyp
 id profile_buttonyp2
 id progress_circular
 id progress_horizontal
@@ -1096,6 +1102,8 @@ id topPanel
 id transitionToEnd
 id transitionToStart
 id triangle
+id tv_fadhlanemail
+id tv_fadhlanuniv
 id unchecked
 id uniform
 id up
@@ -1144,6 +1152,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_fadhlan
 layout activity_fadil
 layout activity_main
 layout activity_reza
@@ -1189,8 +1198,12 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string b_fadhlan
+string b_fadhlanig
+string et_fadhlanemail
 string fb_button
 string fb_buttonyp
+string heading_fadhlan
 string heading_main
 string heading_reza
 string heading_yp
@@ -1202,6 +1215,7 @@ string profile_fadil
 string profile_yp
 string search_menu_title
 string status_bar_notification_info_overflow
+string t_fadhlan
 string tautan_button
 string title_tautan
 style AlertDialog_AppCompat

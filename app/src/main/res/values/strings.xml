@@ -36,4 +36,14 @@
     <string name="ig_button">My Instagram</string>
     <string name="fb_button">My Facebook</string>
     <string name="fb_buttonyp">My Facebook</string>
+
+    <string name="heading_fadhlan">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</string>
+    <string name="t_fadhlan">
+        Hello there, my name is <b>Fadhlan Failusuf</b>. I am 20 years old currently, live in Sukabumi, West Java, Indonesia. I am studying at Islamic University of Indonesia, Bachelor of Informatics. I have my interest for Android Developer
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+    </string>
+    <string name="et_fadhlanemail">18523142@students.uii.ac.id</string>
+    <string name="b_fadhlanig">Instagram</string>
+    <string name="b_fadhlan">Fadhlan F S</string>
 </resources>
