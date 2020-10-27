@@ -74,6 +74,34 @@
                 android:layout_height="10dp"
                 android:background="?android:attr/listDivider"
                 android:visibility="invisible" />
+            <TextView
+                android:id="@+id/CF_tvEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="Email"
+                />
+            <EditText
+                android:id="@+id/CF_etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="18523156@students.uii.ac.id"
+                />
+            <TextView
+                android:id="@+id/CF_tvUniversity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="Universitas/Jurusan"
+                />
+            <EditText
+                android:id="@+id/CF_etUniversity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="Universitas Islam Indonesia/Informatika"
+                />
 
             <Button
                 android:id="@+id/fb_button"
